@@ -169,5 +169,11 @@ pyrightconfig.json
 # OS related files
 .DS_Store
 
+# Project related
+correction.ipynb
+velib/
+*.csv
+*.cql
+
 # Secrets related
 secure-connect-*.zip
